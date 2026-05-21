@@ -1,9 +1,6 @@
 from google import genai
 import numpy as np
 
-API_KEY = 'AIzaSyAxsDAxxWfndet6-Mo2v2RJMF7Cd7Sht-E' 
-#need a new api key this one makes u get error 429 so if u wanna test make one urself - dq 07/22/2025
-
 # Colors
 BLUE = (0,0,255)
 RED = (255,0,0)
